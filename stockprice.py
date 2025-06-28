@@ -1,14 +1,6 @@
 #!/usr/bin/env python3
 """
 Stock Price Tracker using Yahoo Finance API
-============================================
-
-A comprehensive application to track stock prices with:
-- Real-time stock data fetching
-- Price history visualization
-- Multiple stock tracking
-- Market cap and financial metrics
-- Beautiful GUI interface
 
 """
 
